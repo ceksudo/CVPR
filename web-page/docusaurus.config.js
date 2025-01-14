@@ -85,9 +85,9 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Scientific Technical Communication',
+            label: 'Research Reverse Outline',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          {to: '/blog', label: 'Scientific Technical Communication', position: 'left'},
           {
             href: 'https://ceksudo.netlify.app/',
             label: 'Technical Writer',
@@ -121,7 +121,7 @@ const config = {
             title: 'More',
             items: [
               {
-                label: 'Blog',
+                label: 'Scientific Technical Communication',
                 to: '/blog',
               },
               {
